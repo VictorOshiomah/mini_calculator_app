@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: blue;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+input {
+    font-size: 16px;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+}
+
+#sum-el {
+    display: inline-block;
+    color: white;
+    border: 2px solid white;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
